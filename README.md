@@ -3,7 +3,7 @@ Covid-19 Interactive Analysis Dashboard & Simulation
 
 
 ## About This Dashboard
-This dashboard includes interactive graphs, an interactive map, a simulation of covid-19 spreading in Fremont, CA, and more. The data is taken from John Hopkins CSSE data repository.
+This dashboard includes interactive graphs, an interactive map, a simulation of covid-19 spreading in Fremont, CA, and more. The dashboard data is taken from John Hopkins CSSE data repository.
 
 ## Directions 
 The binder will take around 4 minutes to load when first launched. 
